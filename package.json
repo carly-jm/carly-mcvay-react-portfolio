@@ -2,7 +2,7 @@
   "name": "portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://carly-jm.github.io/carly-mcvay-react-portfolio/",
+  "homepage": "hhttps://carly-mcvay-react-portfolio.herokuapp.com/portfolio-react/about",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.34",
     "@fortawesome/free-brands-svg-icons": "^5.15.2",
